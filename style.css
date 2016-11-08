@@ -1,0 +1,24 @@
+body {
+	background: #255C69;
+}
+
+#container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1, h2 {
+	text-align: center;
+	color: #6B949E;
+	font-family: sans-serif;
+}
+
+h1 {
+	font-size: 70px;
+}
+
+h2 {
+	font-size: 25px;
+}
